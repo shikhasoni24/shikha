@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/shikha"/>
+    <filter root="/content/shikha"/>
+    <filter root="/content/dam/shikha"/>
+</workspaceFilter>
