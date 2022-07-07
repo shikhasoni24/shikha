@@ -1,0 +1,9 @@
+<select id=hotel>
+    <sly data-sly-use.obj="com.shikha.core.models.HotelArea">
+        <sly data-sly-list="${obj.datalist}">
+       <option> ${item} </option>
+            </sly>
+
+        </sly>
+        </select>
+        <div id="hotelareares"></div>

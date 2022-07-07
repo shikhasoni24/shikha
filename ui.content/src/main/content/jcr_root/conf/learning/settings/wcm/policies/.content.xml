@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastReplicated="{Date}2021-02-09T20:05:13.532+05:30"
+    cq:lastReplicatedBy="admin"
+    cq:lastReplicationAction="Activate"
+    jcr:mixinTypes="[cq:ReplicationStatus,rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <wcm jcr:primaryType="nt:unstructured">
+        <foundation jcr:primaryType="nt:unstructured">
+            <components jcr:primaryType="nt:unstructured">
+                <responsivegrid jcr:primaryType="nt:unstructured">
+                    <content-default
+                        jcr:description="Policy for editable layout containers"
+                        jcr:lastModified="{Date}2020-12-10T12:59:12.091+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="learning Default"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[group:General,group:AirtelNew,group:learning,/apps/learning/components/form/container]"
+                        policyResourceType="wcm/foundation/components/responsivegrid">
+                        <cq:authoring jcr:primaryType="nt:unstructured">
+                            <assetToComponentMapping jcr:primaryType="nt:unstructured">
+                                <image
+                                    jcr:primaryType="nt:unstructured"
+                                    assetGroup="media"
+                                    assetMimetype="image/*"
+                                    droptarget="image"
+                                    resourceType="learning/components/content/image"
+                                    type="Images"/>
+                            </assetToComponentMapping>
+                        </cq:authoring>
+                        <jcr:content
+                            cq:lastReplicated="{Date}2021-02-09T18:15:45.121+05:30"
+                            cq:lastReplicatedBy="admin"
+                            cq:lastReplicationAction="Activate"
+                            jcr:mixinTypes="[cq:ReplicationStatus]"
+                            jcr:primaryType="nt:unstructured"
+                            mergeList="{Boolean}true"/>
+                    </content-default>
+                    <policy_24740235549800
+                        jcr:lastModified="{Date}2021-06-01T23:50:36.695+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="ggggggggggggbb"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[group:General,group:AirtelNew,group:learning,group:shikha]">
+                        <jcr:content
+                            cq:lastReplicated="{Date}2021-02-09T18:15:45.121+05:30"
+                            cq:lastReplicatedBy="admin"
+                            cq:lastReplicationAction="Activate"
+                            jcr:mixinTypes="[cq:ReplicationStatus]"
+                            jcr:primaryType="nt:unstructured"/>
+                    </policy_24740235549800>
+                    <policy_48670126072300
+                        jcr:lastModified="{Date}2021-07-07T12:56:00.958+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="bb"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[group:AirtelNew,group:learning]">
+                        <jcr:content
+                            cq:lastReplicated="{Date}2021-02-09T18:15:45.121+05:30"
+                            cq:lastReplicatedBy="admin"
+                            cq:lastReplicationAction="Activate"
+                            jcr:mixinTypes="[cq:ReplicationStatus]"
+                            jcr:primaryType="nt:unstructured"/>
+                    </policy_48670126072300>
+                    <policy_134819994530800
+                        jcr:lastModified="{Date}2021-09-23T23:04:06.232+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="welcome"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[group:General,group:Adaptive Form,group:Address,group:learning]">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_134819994530800>
+                    <policy_377873847444200
+                        jcr:lastModified="{Date}2021-09-26T18:34:06.494+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="qqqqqqqqqqqqqq"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="group:General">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_377873847444200>
+                    <policy_379061933238600
+                        jcr:lastModified="{Date}2021-09-26T18:53:53.225+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="sep policy"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[group:General]">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_379061933238600>
+                    <policy_379119081181400
+                        jcr:lastModified="{Date}2021-09-26T18:54:37.405+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="sep policy 2"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[group:General,group:Adaptive Form,group:Address,group:Adobe Campaign]">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_379119081181400>
+                    <policy_428710696004500
+                        jcr:lastModified="{Date}2021-09-27T09:03:21.317+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="policy 1"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[group:Address,group:Adobe Campaign,group:Adobe Campaign Newsletter,group:learning]">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_428710696004500>
+                    <policy_428828458371100
+                        jcr:lastModified="{Date}2021-09-27T08:51:33.413+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="policy 2"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[/apps/learning/components/content/demomulti,/apps/learning/components/content/demotext,/apps/learning/components/content/dialogvaluetest,/apps/learning/components/content/helloworld]">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_428828458371100>
+                </responsivegrid>
+            </components>
+        </foundation>
+    </wcm>
+    <learning jcr:primaryType="nt:unstructured">
+        <components jcr:primaryType="nt:unstructured">
+            <form jcr:primaryType="nt:unstructured">
+                <container jcr:primaryType="nt:unstructured">
+                    <form-container
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="learning Form"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[/apps/learning/components/form/button,/apps/learning/components/form/hidden,/apps/learning/components/form/options,/apps/learning/components/form/text]">
+                        <jcr:content
+                            cq:lastReplicated="{Date}2021-02-09T18:15:45.121+05:30"
+                            cq:lastReplicatedBy="admin"
+                            cq:lastReplicationAction="Activate"
+                            jcr:mixinTypes="[cq:ReplicationStatus]"
+                            jcr:primaryType="nt:unstructured"/>
+                    </form-container>
+                </container>
+            </form>
+            <content jcr:primaryType="nt:unstructured">
+                <languagenavigation jcr:primaryType="nt:unstructured"/>
+                <title jcr:primaryType="nt:unstructured"/>
+                <text jcr:primaryType="nt:unstructured"/>
+                <navigation jcr:primaryType="nt:unstructured"/>
+                <demomulti jcr:primaryType="nt:unstructured"/>
+                <demotext jcr:primaryType="nt:unstructured">
+                    <policy_1632712970175
+                        jcr:lastModified="{Date}2021-09-27T08:55:48.021+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="abcdef"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        allowedTypes="[h4,h5,h6]"
+                        linkDisabled="false"
+                        type="h4">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_1632712970175>
+                </demotext>
+            </content>
+            <structure jcr:primaryType="nt:unstructured">
+                <page jcr:primaryType="nt:unstructured">
+                    <policy_1607683793811
+                        jcr:lastModified="{Date}2020-12-11T16:29:42.452+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="new page policymoo"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        clientlibs="[moo,/apps/learning/clientlibs/clientlib-base]">
+                        <jcr:content
+                            cq:lastReplicated="{Date}2021-02-09T18:15:45.121+05:30"
+                            cq:lastReplicatedBy="admin"
+                            cq:lastReplicationAction="Activate"
+                            jcr:mixinTypes="[cq:ReplicationStatus]"
+                            jcr:primaryType="nt:unstructured"/>
+                    </policy_1607683793811>
+                </page>
+            </structure>
+        </components>
+    </learning>
+</jcr:root>
